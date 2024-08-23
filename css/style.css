@@ -136,6 +136,22 @@ footer {
   height: 52px;
 }
 
+.category-card.invert {
+  background-color: #fff;
+  color: #000;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+.category-card.invert h3 {
+  color: #f48120;
+  height: 68px;
+}
+.category-card.invert p {
+  color: #f48120;
+  height: 52px;
+}
+
 .category-card img {
   max-width: 100%;
   height: 120px;
